@@ -1,0 +1,31 @@
+D:\C#\SistaProject\Models\bin\Debug\Models.dll
+D:\C#\SistaProject\Models\bin\Debug\Models.pdb
+D:\C#\SistaProject\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+D:\C#\SistaProject\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\C#\SistaProject\Models\obj\Debug\Models.dll
+D:\C#\SistaProject\Models\obj\Debug\Models.pdb
+D:\C#\SistaProject\Models\bin\Debug\FontAwesome.Sharp.dll
+D:\C#\SistaProject\Models\obj\Debug\Models.csproj.CopyComplete
+C:\FinalVersion\SistaProject1\SistaProject\Models\bin\Debug\Models.dll
+C:\FinalVersion\SistaProject1\SistaProject\Models\bin\Debug\Models.pdb
+C:\FinalVersion\SistaProject1\SistaProject\Models\bin\Debug\FontAwesome.Sharp.dll
+C:\FinalVersion\SistaProject1\SistaProject\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\FinalVersion\SistaProject1\SistaProject\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\FinalVersion\SistaProject1\SistaProject\Models\obj\Debug\Models.dll
+C:\FinalVersion\SistaProject1\SistaProject\Models\obj\Debug\Models.pdb
+C:\Users\oday_\OneDrive\Desktop\عدي\كل الفصول مع عدا الأخير\Termin3\C#\MyProjects\FinalVersion\FFFIIINNNAAALLL\SistaProject1\SistaProject\Models\bin\Debug\Models.dll
+C:\Users\oday_\OneDrive\Desktop\عدي\كل الفصول مع عدا الأخير\Termin3\C#\MyProjects\FinalVersion\FFFIIINNNAAALLL\SistaProject1\SistaProject\Models\bin\Debug\Models.pdb
+C:\Users\oday_\OneDrive\Desktop\عدي\كل الفصول مع عدا الأخير\Termin3\C#\MyProjects\FinalVersion\FFFIIINNNAAALLL\SistaProject1\SistaProject\Models\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\oday_\OneDrive\Desktop\عدي\كل الفصول مع عدا الأخير\Termin3\C#\MyProjects\FinalVersion\FFFIIINNNAAALLL\SistaProject1\SistaProject\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\oday_\OneDrive\Desktop\عدي\كل الفصول مع عدا الأخير\Termin3\C#\MyProjects\FinalVersion\FFFIIINNNAAALLL\SistaProject1\SistaProject\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\oday_\OneDrive\Desktop\عدي\كل الفصول مع عدا الأخير\Termin3\C#\MyProjects\FinalVersion\FFFIIINNNAAALLL\SistaProject1\SistaProject\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\oday_\OneDrive\Desktop\عدي\كل الفصول مع عدا الأخير\Termin3\C#\MyProjects\FinalVersion\FFFIIINNNAAALLL\SistaProject1\SistaProject\Models\obj\Debug\Models.dll
+C:\Users\oday_\OneDrive\Desktop\عدي\كل الفصول مع عدا الأخير\Termin3\C#\MyProjects\FinalVersion\FFFIIINNNAAALLL\SistaProject1\SistaProject\Models\obj\Debug\Models.pdb
+C:\Users\oday_\OneDrive\Desktop\Studieprojekt Orebro\Rss Feed reader C#\SistaProject\Models\bin\Debug\Models.dll
+C:\Users\oday_\OneDrive\Desktop\Studieprojekt Orebro\Rss Feed reader C#\SistaProject\Models\bin\Debug\Models.pdb
+C:\Users\oday_\OneDrive\Desktop\Studieprojekt Orebro\Rss Feed reader C#\SistaProject\Models\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\oday_\OneDrive\Desktop\Studieprojekt Orebro\Rss Feed reader C#\SistaProject\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\oday_\OneDrive\Desktop\Studieprojekt Orebro\Rss Feed reader C#\SistaProject\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\oday_\OneDrive\Desktop\Studieprojekt Orebro\Rss Feed reader C#\SistaProject\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\oday_\OneDrive\Desktop\Studieprojekt Orebro\Rss Feed reader C#\SistaProject\Models\obj\Debug\Models.dll
+C:\Users\oday_\OneDrive\Desktop\Studieprojekt Orebro\Rss Feed reader C#\SistaProject\Models\obj\Debug\Models.pdb

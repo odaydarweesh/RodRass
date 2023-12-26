@@ -1,0 +1,47 @@
+D:\C#\SistaProject\Business_Layer\bin\Debug\Business_Layer.dll
+D:\C#\SistaProject\Business_Layer\bin\Debug\Business_Layer.pdb
+D:\C#\SistaProject\Business_Layer\bin\Debug\Data_Layer.dll
+D:\C#\SistaProject\Business_Layer\bin\Debug\Models.dll
+D:\C#\SistaProject\Business_Layer\bin\Debug\Data_Layer.pdb
+D:\C#\SistaProject\Business_Layer\bin\Debug\Models.pdb
+D:\C#\SistaProject\Business_Layer\obj\Debug\Business_Layer.csproj.AssemblyReference.cache
+D:\C#\SistaProject\Business_Layer\obj\Debug\Business_Layer.csproj.CoreCompileInputs.cache
+D:\C#\SistaProject\Business_Layer\obj\Debug\Business_Layer.csproj.CopyComplete
+D:\C#\SistaProject\Business_Layer\obj\Debug\Business_Layer.dll
+D:\C#\SistaProject\Business_Layer\obj\Debug\Business_Layer.pdb
+D:\C#\SistaProject\Business_Layer\bin\Debug\FontAwesome.Sharp.dll
+C:\FinalVersion\SistaProject1\SistaProject\Business_Layer\bin\Debug\Business_Layer.dll
+C:\FinalVersion\SistaProject1\SistaProject\Business_Layer\bin\Debug\Business_Layer.pdb
+C:\FinalVersion\SistaProject1\SistaProject\Business_Layer\bin\Debug\Data_Layer.dll
+C:\FinalVersion\SistaProject1\SistaProject\Business_Layer\bin\Debug\FontAwesome.Sharp.dll
+C:\FinalVersion\SistaProject1\SistaProject\Business_Layer\bin\Debug\Models.dll
+C:\FinalVersion\SistaProject1\SistaProject\Business_Layer\bin\Debug\Data_Layer.pdb
+C:\FinalVersion\SistaProject1\SistaProject\Business_Layer\bin\Debug\Models.pdb
+C:\FinalVersion\SistaProject1\SistaProject\Business_Layer\obj\Debug\Business_Layer.csproj.AssemblyReference.cache
+C:\FinalVersion\SistaProject1\SistaProject\Business_Layer\obj\Debug\Business_Layer.csproj.CoreCompileInputs.cache
+C:\FinalVersion\SistaProject1\SistaProject\Business_Layer\obj\Debug\Business_Layer.dll
+C:\FinalVersion\SistaProject1\SistaProject\Business_Layer\obj\Debug\Business_Layer.pdb
+C:\Users\oday_\OneDrive\Desktop\عدي\كل الفصول مع عدا الأخير\Termin3\C#\MyProjects\FinalVersion\FFFIIINNNAAALLL\SistaProject1\SistaProject\Business_Layer\bin\Debug\Business_Layer.dll
+C:\Users\oday_\OneDrive\Desktop\عدي\كل الفصول مع عدا الأخير\Termin3\C#\MyProjects\FinalVersion\FFFIIINNNAAALLL\SistaProject1\SistaProject\Business_Layer\bin\Debug\Business_Layer.pdb
+C:\Users\oday_\OneDrive\Desktop\عدي\كل الفصول مع عدا الأخير\Termin3\C#\MyProjects\FinalVersion\FFFIIINNNAAALLL\SistaProject1\SistaProject\Business_Layer\bin\Debug\Data_Layer.dll
+C:\Users\oday_\OneDrive\Desktop\عدي\كل الفصول مع عدا الأخير\Termin3\C#\MyProjects\FinalVersion\FFFIIINNNAAALLL\SistaProject1\SistaProject\Business_Layer\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\oday_\OneDrive\Desktop\عدي\كل الفصول مع عدا الأخير\Termin3\C#\MyProjects\FinalVersion\FFFIIINNNAAALLL\SistaProject1\SistaProject\Business_Layer\bin\Debug\Models.dll
+C:\Users\oday_\OneDrive\Desktop\عدي\كل الفصول مع عدا الأخير\Termin3\C#\MyProjects\FinalVersion\FFFIIINNNAAALLL\SistaProject1\SistaProject\Business_Layer\bin\Debug\Data_Layer.pdb
+C:\Users\oday_\OneDrive\Desktop\عدي\كل الفصول مع عدا الأخير\Termin3\C#\MyProjects\FinalVersion\FFFIIINNNAAALLL\SistaProject1\SistaProject\Business_Layer\bin\Debug\Models.pdb
+C:\Users\oday_\OneDrive\Desktop\عدي\كل الفصول مع عدا الأخير\Termin3\C#\MyProjects\FinalVersion\FFFIIINNNAAALLL\SistaProject1\SistaProject\Business_Layer\obj\Debug\Business_Layer.csproj.AssemblyReference.cache
+C:\Users\oday_\OneDrive\Desktop\عدي\كل الفصول مع عدا الأخير\Termin3\C#\MyProjects\FinalVersion\FFFIIINNNAAALLL\SistaProject1\SistaProject\Business_Layer\obj\Debug\Business_Layer.csproj.CoreCompileInputs.cache
+C:\Users\oday_\OneDrive\Desktop\عدي\كل الفصول مع عدا الأخير\Termin3\C#\MyProjects\FinalVersion\FFFIIINNNAAALLL\SistaProject1\SistaProject\Business_Layer\obj\Debug\Business_Layer.csproj.CopyComplete
+C:\Users\oday_\OneDrive\Desktop\عدي\كل الفصول مع عدا الأخير\Termin3\C#\MyProjects\FinalVersion\FFFIIINNNAAALLL\SistaProject1\SistaProject\Business_Layer\obj\Debug\Business_Layer.dll
+C:\Users\oday_\OneDrive\Desktop\عدي\كل الفصول مع عدا الأخير\Termin3\C#\MyProjects\FinalVersion\FFFIIINNNAAALLL\SistaProject1\SistaProject\Business_Layer\obj\Debug\Business_Layer.pdb
+C:\Users\oday_\OneDrive\Desktop\Studieprojekt Orebro\Rss Feed reader C#\SistaProject\Business_Layer\bin\Debug\Business_Layer.dll
+C:\Users\oday_\OneDrive\Desktop\Studieprojekt Orebro\Rss Feed reader C#\SistaProject\Business_Layer\bin\Debug\Business_Layer.pdb
+C:\Users\oday_\OneDrive\Desktop\Studieprojekt Orebro\Rss Feed reader C#\SistaProject\Business_Layer\bin\Debug\Data_Layer.dll
+C:\Users\oday_\OneDrive\Desktop\Studieprojekt Orebro\Rss Feed reader C#\SistaProject\Business_Layer\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\oday_\OneDrive\Desktop\Studieprojekt Orebro\Rss Feed reader C#\SistaProject\Business_Layer\bin\Debug\Models.dll
+C:\Users\oday_\OneDrive\Desktop\Studieprojekt Orebro\Rss Feed reader C#\SistaProject\Business_Layer\bin\Debug\Data_Layer.pdb
+C:\Users\oday_\OneDrive\Desktop\Studieprojekt Orebro\Rss Feed reader C#\SistaProject\Business_Layer\bin\Debug\Models.pdb
+C:\Users\oday_\OneDrive\Desktop\Studieprojekt Orebro\Rss Feed reader C#\SistaProject\Business_Layer\obj\Debug\Business_Layer.csproj.AssemblyReference.cache
+C:\Users\oday_\OneDrive\Desktop\Studieprojekt Orebro\Rss Feed reader C#\SistaProject\Business_Layer\obj\Debug\Business_Layer.csproj.CoreCompileInputs.cache
+C:\Users\oday_\OneDrive\Desktop\Studieprojekt Orebro\Rss Feed reader C#\SistaProject\Business_Layer\obj\Debug\Business_Layer.csproj.CopyComplete
+C:\Users\oday_\OneDrive\Desktop\Studieprojekt Orebro\Rss Feed reader C#\SistaProject\Business_Layer\obj\Debug\Business_Layer.dll
+C:\Users\oday_\OneDrive\Desktop\Studieprojekt Orebro\Rss Feed reader C#\SistaProject\Business_Layer\obj\Debug\Business_Layer.pdb
