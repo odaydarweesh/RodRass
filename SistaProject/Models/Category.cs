@@ -9,7 +9,6 @@ namespace Models
 {
     public class Category : TitleE
     {
-        //fghfdh
         public string CategoryName { get; set; }
         public Category(string categoryNamne)
         {
